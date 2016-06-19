@@ -1980,7 +1980,7 @@ html, body {
     position: absolute;
     width: 100%;
     height:.58rem;
-   top: 68%;
+   top: 90%;
     left:.05rem;
     opacity: 0;}
 #page5  .bottomTriangle{-webkit-animation:pullUp 600ms ease 300ms both running;animation: pullUp 600ms ease 300ms both running;}
@@ -1990,7 +1990,7 @@ html, body {
     width: .97rem;
     height: .97rem;
     left:35%;
-   top: 58%;
+   top: 80%;
     position: absolute;
     opacity: 0;
 }
@@ -2215,9 +2215,9 @@ opacity: 0}
     font-style: normal;
     word-wrap: break-word;
     white-space: pre-wrap;}
-.circleM1 .tiTT1{left:.1rem}
-.circleM1 .tiTT2{left:.1rem}
-.circleM1 .tiTT3{left:2.1rem}
+.circleM1  .tiTT1{left:.1rem;top:.4rem}
+.circleM1 .tiTT2{left:.1rem;top:.7rem}
+.circleM1 .tiTT3{left:.05rem;top:1rem}
 /*#page6 .ti1{    animation: fadeIn 1000ms ease 1100ms both running;-webkit-animation: fadeIn 1000ms ease 1100ms both running}*/
 .ti1{top: .5rem;
     left: .36rem;}
@@ -2240,7 +2240,7 @@ opacity: 0}
 .ci1,.circleM1{
     position: absolute;
     left: 25%;
-    top: .36rem;}
+    top: .34rem;}
 .ci2,.circleM2{;left: 1.54rem;position: absolute;
     top:33%;}
 .ci3,.circleM3{;left: .3rem;
@@ -2349,7 +2349,7 @@ opacity: 0}
     width: 2.1rem;
     height: .40rem;
     left: .55rem;
-    top: 65%;
+    top:3.5rem;
     overflow: hidden;
     color: rgb(255, 255, 255);
     font-size: .25rem;
@@ -2371,7 +2371,7 @@ opacity: 0}
 .call{left:.45rem;opacity: 0;}
 .last0{position: absolute;
     width: 3.76rem;
-    top: 80%;
+    top: 4.1rem;
     left: -.25rem;opacity: 0;}
 #page7 .lastPhone{ -webkit-animation:fadeIn 1000ms ease 600ms both running ;animation: fadeIn 1000ms ease 600ms both running; }
 .lastImg{
